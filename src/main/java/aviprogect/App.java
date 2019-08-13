@@ -5,7 +5,7 @@ class App{
       int[] array = new int[10];
       int sum = 0;
       System.out.println("Enter the elements:");
-      for (int i=0; i<1; i++)
+      for (int i=0; i<15; i++)
       {
     	  array[i] = scanner.nextInt();
       }
